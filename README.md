@@ -88,7 +88,7 @@ This C++ program implements a **Complaint Escalation System** that manages and e
    - Manages a collection of complaints and processes them day by day.
    - Simulates the escalation of unresolved complaints and outputs their current status.
 
-### Escalation Process
+## Escalation Process
 - Complaints are automatically escalated through the following levels:
   1. **Level 1**: Handled by Junior Faculty.
   2. **Level 2**: Escalates to Head of Department (HOD) if unresolved after 3 days.
