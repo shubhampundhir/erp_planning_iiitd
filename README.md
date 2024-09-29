@@ -2,7 +2,7 @@
 
 This assignment contains three C++ programs that solve different problems using object-oriented programming. Each program demonstrates the application of classes, encapsulation, and logic to solve real-world scenarios such as a complaint escalation system, data processing, and input/output handling.
 
-# Q1- IIITD Department Management System
+## Q1- IIITD Department Management System
 
 ## Description
 This program models IIIT Delhi institutional setup by organizing personnel (like Deans, Associate Deans, Registrars) and their respective departments. It allows users to:
@@ -22,7 +22,7 @@ This program models IIIT Delhi institutional setup by organizing personnel (like
    g++ main.cpp -o question1.cpp
    ./question1.exe
 
-# Q2 - IIITD Organization Structure
+## Q2 - IIITD Organization Structure
 
 ## Overview
 This C++ program models the hierarchy of a IIITD university's organizational structure, consisting of a **Registrar**, multiple **Heads of Department (HODs)**, and their respective **Faculty members**. It showcases object-oriented programming concepts like inheritance and class composition.
