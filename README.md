@@ -2,7 +2,7 @@
 
 This assignment contains three C++ programs that solve different problems using object-oriented programming. Each program demonstrates the application of classes, encapsulation, and logic to solve real-world scenarios such as a complaint escalation system, data processing, and input/output handling.
 
-# Q1- IIITD Department Management System
+## Q1- IIITD Department Management System
 
 ## Description
 This program models IIIT Delhi institutional setup by organizing personnel (like Deans, Associate Deans, Registrars) and their respective departments. It allows users to:
